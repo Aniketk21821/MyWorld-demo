@@ -1,3 +1,3 @@
 # MyWorld-demo
-This is my demo project
+This is my demo project.
 Author - Aniket Gupta
